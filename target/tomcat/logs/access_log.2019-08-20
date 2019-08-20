@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:42 +0800] "GET / HTTP/1.1" 200 952 http-bio-8080-exec-1 55
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:42 +0800] "GET /js/jquery-3.2.1.js HTTP/1.1" 304 - http-bio-8080-exec-3 14
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:42 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:44 +0800] "POST /toMulitFile HTTP/1.1" 200 15 http-bio-8080-exec-5 50
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:45 +0800] "GET /pi/undefined HTTP/1.1" 404 975 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:50 +0800] "POST /toMulitFile HTTP/1.1" 200 62 http-bio-8080-exec-7 32
+0:0:0:0:0:0:0:1 - - [20/Aug/2019:08:23:53 +0800] "GET /downLoad?filename=121afbf0-3713-488b-b514-ed308278d786.mp4 HTTP/1.1" 200 946105 http-bio-8080-exec-9 24
